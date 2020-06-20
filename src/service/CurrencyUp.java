@@ -21,13 +21,13 @@ import javax.jws.WebParam;
 import javax.jws.WebService;
 
 @WebService(serviceName = "currencyUpdater")
-public class CurrencyUpdater {
+public class CurrencyUp {
 
 	private Date dateUpdate;
 	private Map<String, Double> exchangeMap;
 	File site2;
 
-	public CurrencyUpdater() {
+	public CurrencyUp() {
 		this.dateUpdate = new Date();
 		this.exchangeMap = new HashMap<String, Double>();
 		this.exchangeMap.put("da", 1.1177);
@@ -122,7 +122,7 @@ public class CurrencyUpdater {
 		int count = 0;
 		while ((line = br1.readLine()) != null) {
 			if (count > 4) {
-				if (count == 8 || count == 13 || count == 12) {
+				if (count == 8 || count == 11 || count == 12) {
 					String mot = line.trim().substring(8, line.trim().indexOf('/'));
 					String newMot = mot.substring(0, mot.length() - 1);
 					if (it.hasNext()) {
@@ -132,6 +132,7 @@ public class CurrencyUpdater {
 					}
 
 				} else {
+					System.out.println(count);
 					String mott = line.trim().substring(8, line.trim().indexOf("&"));
 					if (it.hasNext()) {
 						Entry<String, Double> e = it.next();

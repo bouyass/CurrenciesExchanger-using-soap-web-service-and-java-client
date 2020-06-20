@@ -8,7 +8,6 @@
                             <strong>1,0644&nbsp;<span>SFr.</span></strong>
                             <strong>77,5982</strong>
                             <strong>119,4747&nbsp;<span>¥</span></strong>
-                            <strong>119,4747&nbsp;<span>¥</span></strong>
                             <strong>34,6650&nbsp;<span>฿</span></strong>
                             <strong>7,9050</strong>
                             <strong>3,8555</strong>
@@ -19,4 +18,5 @@
                             <strong>5,9368&nbsp;<span>R$</span></strong>
                             <strong>3,1967&nbsp;<span>DT</span></strong>
                             <strong>4,303,2797&nbsp;<span>Ar</span></strong>
+                            <strong>26,015,9867&nbsp;<span>₫</span></strong>
                             <strong>26,015,9867&nbsp;<span>₫</span></strong>
