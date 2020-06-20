@@ -311,7 +311,7 @@ ga('send', 'pageview');
         </div>
 
         <div class="header-advert">
-            <div class="ads-core-placer" id="Bouton-Header_5eedce605e7ea" data-ads-core='{"type":"Bouton-Header"}'></div>
+            <div class="ads-core-placer" id="Bouton-Header_5eedd52546073" data-ads-core='{"type":"Bouton-Header"}'></div>
         </div>
 
         <!-- .header-links -->
@@ -395,7 +395,7 @@ ga('send', 'pageview');
                 <div class="box-flex">
                     <div class="box-shop">
                         <a class="box-shop-link-img" href="https://pxlme.me/wLHC--Kt">
-                            <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2018.2F10.2F19.2F4beaed04-69b8-487c-912e-a8a81bac7e7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592643168" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="Couverture du dernier numéro de Capital" >
+                            <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2018.2F10.2F19.2F4beaed04-69b8-487c-912e-a8a81bac7e7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="Couverture du dernier numéro de Capital" >
                         </a>
                         <span class="box-title">Chaque mois, Capital directement chez vous !</span>
 
@@ -410,7 +410,7 @@ ga('send', 'pageview');
                     <div class="box-flex">
                                                     <div class="box-shop">
                                 <a class="box-shop-link-img" href="https://www.capital.fr/economie-politique/votre-magazine-en-kiosque-ce-mois-ci-1230668">
-                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2020.2F02.2F19.2F034d2ea3-df22-48f5-a075-5730c3d26a15.2Ejpeg/170xauto/quality/70/picture.jpg?1592643168" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
+                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2020.2F02.2F19.2F034d2ea3-df22-48f5-a075-5730c3d26a15.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
                                 </a>
                                 <span class="box-title">Capital mensuel n°342</span>
                                 <span class="box-text">Spécial Immobilier, le placement qui rapporte ! (Airbnb, quartiers d&#039;avenir, défiscalisation, SCPI, ...) / Les viande est attaquée, comment elle se défend / Retraite : trouver du travail aux seniors, le vrai défi</span>
@@ -418,7 +418,7 @@ ga('send', 'pageview');
                             </div>
                                                     <div class="box-shop">
                                 <a class="box-shop-link-img" href="https://www.capital.fr/economie-politique/votre-magazine-en-kiosque-ce-mois-ci-1230668#99gdq">
-                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2019.2F10.2F28.2F796de964-6c77-41e7-90a5-7e54c6c41a7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592643168" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
+                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2019.2F10.2F28.2F796de964-6c77-41e7-90a5-7e54c6c41a7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
                                 </a>
                                 <span class="box-title">Capital Votre Argent n° 8</span>
                                 <span class="box-text">Capital Votre Argent : Succession et héritage / Transmettre plus à son conjoint / Mieux protéger ses enfants / Réduire la facture fiscale</span>
@@ -548,12 +548,12 @@ ga('send', 'pageview');
         
                     <div id="corps">
 
-                <div class="ads-core-placer" id="Out-Of-Banner_5eedce6069f00" data-ads-core='{"type":"Out-Of-Banner"}'></div>
-                <div class="ads-core-placer" id="Habillage-Interstitiel_5eedce6069f06" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
+                <div class="ads-core-placer" id="Out-Of-Banner_5eedd5254e220" data-ads-core='{"type":"Out-Of-Banner"}'></div>
+                <div class="ads-core-placer" id="Habillage-Interstitiel_5eedd5254e227" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
 
-                                    <div class="ads-core-placer" id="Postitiel_5eedce6069f14" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
+                                    <div class="ads-core-placer" id="Postitiel_5eedd5254e233" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
                 
-                <div class="ads-core-placer" id="Banniere-Haute_5eedce6069f17" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
+                <div class="ads-core-placer" id="Banniere-Haute_5eedd5254e236" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
 
                 <div class="site_content">
                                                                     <nav class="subnav">
@@ -2525,8 +2525,8 @@ ga('send', 'pageview');
     </main>
                             <aside class="page-aside" role="complementary">
 
-        <div class="ads-core-placer" id="Pave-Haut_5eedce60778b4" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
-        <div class="ads-core-placer" id="Bouton_5eedce60778bd" data-ads-core='{"device":"tablet,desktop","type":"Bouton"}'></div>
+        <div class="ads-core-placer" id="Pave-Haut_5eedd52552ec8" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
+        <div class="ads-core-placer" id="Bouton_5eedd52552ecf" data-ads-core='{"device":"tablet,desktop","type":"Bouton"}'></div>
 
         <div class="shopbox">
     <iframe src="https://abo.prismamediadigital.com/cap/1" sandbox="allow-popups allow-scripts allow-same-origin" class="sidebarIFrame" scrolling="no" frameborder="0" allowtransparency="true" width="300" height="250"></iframe>
@@ -2541,7 +2541,7 @@ ga('send', 'pageview');
     <iframe class="lazyload" sandbox="allow-popups allow-scripts allow-same-origin" data-url="https://www.facebook.com/plugins/page.php?href=https://facebook.com/Capital.fr/&tabs&width=360&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="360" height="214" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 </section>
 
-        <div class="ads-core-placer" id="Pave-Bas_5eedce60793de" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
+        <div class="ads-core-placer" id="Pave-Bas_5eedd5255469f" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
 
     </aside>
                     </div>
@@ -2617,7 +2617,7 @@ boldTitle.length > 0 ? boldTitle.forEach(addAnalytics) : ''
             </script>
         
             
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc2461609-","applicationID":"94223269","transactionName":"Y1RTbBdSVxFZABUIXloeck0WR1YPFxMMBW5XUEFREVJVPV4RDg9Fa1JEShdWVwFBPAgPVVFJ","queueTime":0,"applicationTime":157,"atts":"TxNQGl9IRB8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc2461609-","applicationID":"94223269","transactionName":"Y1RTbBdSVxFZABUIXloeck0WR1YPFxMMBW5XUEFREVJVPV4RDg9Fa1JEShdWVwFBPAgPVVFJ","queueTime":0,"applicationTime":103,"atts":"TxNQGl9IRB8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
               function addAnalytics(el) {
   el.addEventListener('click', function (e) {
