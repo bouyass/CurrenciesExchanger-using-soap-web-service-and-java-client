@@ -1,0 +1,22 @@
+                    <strong class="currencylist-ref">1,00&nbsp;&euro;&nbsp;=</strong>
+                            <strong>1,1177&nbsp;<span>$</span></strong>
+                            <strong>0,9051&nbsp;<span>£</span></strong>
+                            <strong>119,4747&nbsp;<span>¥</span></strong>
+                            <strong>1,0644&nbsp;<span>SFr.</span></strong>
+                            <strong>1,1177&nbsp;<span>$</span></strong>
+                            <strong>0,9051&nbsp;<span>£</span></strong>
+                            <strong>1,0644&nbsp;<span>SFr.</span></strong>
+                            <strong>77,5982</strong>
+                            <strong>119,4747&nbsp;<span>¥</span></strong>
+                            <strong>119,4747&nbsp;<span>¥</span></strong>
+                            <strong>34,6650&nbsp;<span>฿</span></strong>
+                            <strong>7,9050</strong>
+                            <strong>3,8555</strong>
+                            <strong>1,5211&nbsp;<span>$</span></strong>
+                            <strong>19,3522&nbsp;<span>R</span></strong>
+                            <strong>1,6353&nbsp;<span>$</span></strong>
+                            <strong>10,8085&nbsp;<span>Dh</span></strong>
+                            <strong>5,9368&nbsp;<span>R$</span></strong>
+                            <strong>3,1967&nbsp;<span>DT</span></strong>
+                            <strong>4,303,2797&nbsp;<span>Ar</span></strong>
+                            <strong>26,015,9867&nbsp;<span>₫</span></strong>
