@@ -1,38 +1,17 @@
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.nio.charset.StandardCharsets;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Set;
+import javax.xml.ws.Endpoint;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
-
-import org.xml.sax.SAXException;
-
-
+import service.CurrencyUpdater;
 
 public class Main {
 	
 
 	
-	public static void main(String[] args) throws IOException, ParserConfigurationException, SAXException, XPathExpressionException {
+	public static void main(String[] args){
 
 		
-		
+		String url = "http://0.0.0.0:8888/";
+		Endpoint.publish(url, new CurrencyUpdater());
+		System.out.println("Web service deployé sur "+ url );
 
        
        

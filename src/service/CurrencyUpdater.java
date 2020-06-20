@@ -1,3 +1,4 @@
+package service;
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,15 +9,15 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
-import java.util.Collection;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-import java.util.Set;
 import java.util.Map.Entry;
+import java.util.Set;
 
 import javax.jws.WebMethod;
+import javax.jws.WebParam;
 import javax.jws.WebService;
 
 @WebService(serviceName = "currencyUpdater")
@@ -46,7 +47,7 @@ public class CurrencyUpdater {
 	}
 
 	@WebMethod
-	public Map<String, Double> getExchanges(double amount) throws IOException {
+	public HashMapWrapper getExchanges(@WebParam(name="montant") double amount) throws IOException {
 		Map<String, Double> result = new HashMap<String, Double>();
 		FileInputStream fis = new FileInputStream(this.site2);
 		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
@@ -61,7 +62,7 @@ public class CurrencyUpdater {
 			result.put(values[0].trim(), Double.valueOf(values[1])*amount);
 			
 		}
-		return result;
+		return new HashMapWrapper(result);
 	}
 
 	public void updater() throws IOException {
