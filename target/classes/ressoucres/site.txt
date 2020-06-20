@@ -193,7 +193,7 @@ ga('send', 'pageview');
     <div class="header-top">
                     <a href="https://www.capital.fr" class="header-logo" aria-label="Capital">
                 <svg height="0" viewBox="0 0 810 239" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M168.927 156.621l-36.456-27.516c-10.618 13.66-21.488 22.77-39.944 22.77-24.775 0-42.219-21.966-42.219-50.09v-.536c0-27.321 17.444-49.82 42.22-49.82 16.937 0 28.567 8.84 38.679 21.964l36.91-30.267c-15.674-22.768-38.932-38.84-75.084-38.84C39.438 4.286 0 47.144 0 101.786v.536c0 55.978 40.702 96.96.6z" /></symbol></defs></svg>        <!-- End global svg sprite -->
+                    <path fill-rule="evenodd" d="M168.927 156.621l-36.456-27.516c-10.618 13.66-21.488 22.77-39.944 22.77-24.775 0-42.219-21.966-42.219-50.09v-.536c0-27.321 17.444-49.82 42.22-49.82 16.937 0 28.567 8.84 38.679 21.964l36.91-30.267c-15.674-22.768-38.932-38.84-75.084-38.84C39.438 4.286 0 47.144 0 101.786v.536c0 55.978 40.702 96.962 9" /></symbol></defs></svg>        <!-- End global svg sprite -->
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKQXL3P"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -204,7 +204,7 @@ ga('send', 'pageview');
         <div class="page">
 
                     
-<header class="page-header site_header" role2 91.263 96.962 38.618 0 61.067-17.657 77.712-41.731 1.56 26.442 20.708 41.194 45.655 41.194 17.95 0 30.843-7.499 40.45-18.481v15.267h47.275v-83.301c0-20.357-4.298-35.358-14.664-46.072-10.87-11.517-27.555-17.677-52.078-17.677-23.511 0-39.944 4.552-55.364 11.249l9.859 35.624c12.388-4.82 23.511-8.035 37.92-8.035 18.456 0 27.304 8.572 27.304 23.838v2.41c-7.837-3.211-20.224-5.625-32.865-5.625-32.106 0-53.595 15.27-53.595 45.536v.536c0 .88.018 1.749.055 2.605zm0 0l.453.342c-.134.197-.27.394-.405.59-.018-.309-.034-.62-.048-.932zm86.911-13.587v-6.695c-5.056-2.142-11.882-3.751-18.96-3.751-13.905 0-21.995 6.963-21.995 17.945v.537c0 9.91 7.079 15.803 16.939 15.803 14.156 0 24.016-9.374 24.016-23.84zm54.791-92.409h48.034V69.91c9.353-12.054 20.982-22.5 41.46-22.5 32.63 0 60.702 28.662 60.702 75v.536c0 47.142-28.072 75.802-60.45 75.802-20.73 0-32.864-9.91-41.712-20.892v60.534h-48.034V50.625zm103.151 72.59v-.537c0-19.287-12.646-32.947-28.067-32.947-15.674 0-28.062 13.66-28.062 32.947v.536c0 19.283 12.388 32.945 28.062 32.945 15.421 0 28.067-13.394 28.067-32.945zm54.244 72.318h47.781V50.625h-47.781v144.908zM467.013 37.5h49.803V0h-49.803v37.5zm70.844 113.033V91.34h-16.179V50.625h16.179V13.93h47.781v36.695h31.856v40.714h-31.856v49.284c0 10.178 4.3 14.466 13.146 14.466 6.32 0 12.39-1.877 18.203-4.824v39.642c-8.594 5.09-19.973 8.572-33.37 8.572-28.82 0-45.76-13.392-45.76-47.946zm82.418 3.483v-.536c0-30.266 21.488-45.536 53.595-45.536 12.638 0 25.028 2.414 32.864 5.626v-2.411c0-15.266-8.847-23.838-27.302-23.838-14.412 0-25.535 3.215-37.921 8.035l-9.86-35.624c15.421-6.697 31.852-11.25 55.364-11.25 24.521 0 41.206 6.16 52.078 17.678 10.364 10.714 14.663 25.715 14.663 46.072v83.3h-47.274v-15.266c-9.61 10.982-22.503 18.481-40.45 18.481-26.04 0-45.757-16.07-45.757-44.73zm86.966-10.982v-6.695c-5.058-2.142-11.883-3.751-18.963-3.751-13.904 0-21.995 6.963-21.995 17.945v.537c0 9.91 7.08 15.803 16.94 15.803 14.157 0 24.018-9.374 24.018-23.84zm54.98 52.499H810V0h-47.778v195.533z"/>
+<header class="page-header site_header" role1.263 96.962 38.618 0 61.067-17.657 77.712-41.731 1.56 26.442 20.708 41.194 45.655 41.194 17.95 0 30.843-7.499 40.45-18.481v15.267h47.275v-83.301c0-20.357-4.298-35.358-14.664-46.072-10.87-11.517-27.555-17.677-52.078-17.677-23.511 0-39.944 4.552-55.364 11.249l9.859 35.624c12.388-4.82 23.511-8.035 37.92-8.035 18.456 0 27.304 8.572 27.304 23.838v2.41c-7.837-3.211-20.224-5.625-32.865-5.625-32.106 0-53.595 15.27-53.595 45.536v.536c0 .88.018 1.749.055 2.605zm0 0l.453.342c-.134.197-.27.394-.405.59-.018-.309-.034-.62-.048-.932zm86.911-13.587v-6.695c-5.056-2.142-11.882-3.751-18.96-3.751-13.905 0-21.995 6.963-21.995 17.945v.537c0 9.91 7.079 15.803 16.939 15.803 14.156 0 24.016-9.374 24.016-23.84zm54.791-92.409h48.034V69.91c9.353-12.054 20.982-22.5 41.46-22.5 32.63 0 60.702 28.662 60.702 75v.536c0 47.142-28.072 75.802-60.45 75.802-20.73 0-32.864-9.91-41.712-20.892v60.534h-48.034V50.625zm103.151 72.59v-.537c0-19.287-12.646-32.947-28.067-32.947-15.674 0-28.062 13.66-28.062 32.947v.536c0 19.283 12.388 32.945 28.062 32.945 15.421 0 28.067-13.394 28.067-32.945zm54.244 72.318h47.781V50.625h-47.781v144.908zM467.013 37.5h49.803V0h-49.803v37.5zm70.844 113.033V91.34h-16.179V50.625h16.179V13.93h47.781v36.695h31.856v40.714h-31.856v49.284c0 10.178 4.3 14.466 13.146 14.466 6.32 0 12.39-1.877 18.203-4.824v39.642c-8.594 5.09-19.973 8.572-33.37 8.572-28.82 0-45.76-13.392-45.76-47.946zm82.418 3.483v-.536c0-30.266 21.488-45.536 53.595-45.536 12.638 0 25.028 2.414 32.864 5.626v-2.411c0-15.266-8.847-23.838-27.302-23.838-14.412 0-25.535 3.215-37.921 8.035l-9.86-35.624c15.421-6.697 31.852-11.25 55.364-11.25 24.521 0 41.206 6.16 52.078 17.678 10.364 10.714 14.663 25.715 14.663 46.072v83.3h-47.274v-15.266c-9.61 10.982-22.503 18.481-40.45 18.481-26.04 0-45.757-16.07-45.757-44.73zm86.966-10.982v-6.695c-5.058-2.142-11.883-3.751-18.963-3.751-13.904 0-21.995 6.963-21.995 17.945v.537c0 9.91 7.08 15.803 16.94 15.803 14.157 0 24.018-9.374 24.018-23.84zm54.98 52.499H810V0h-47.778v195.533z"/>
                 </svg>
             </a>
                 <button aria-controls="header-content">
@@ -311,7 +311,7 @@ ga('send', 'pageview');
         </div>
 
         <div class="header-advert">
-            <div class="ads-core-placer" id="Bouton-Header_5eedd52546073" data-ads-core='{"type":"Bouton-Header"}'></div>
+            <div class="ads-core-placer" id="Bouton-Header_5eeddc14bc019" data-ads-core='{"type":"Bouton-Header"}'></div>
         </div>
 
         <!-- .header-links -->
@@ -395,7 +395,7 @@ ga('send', 'pageview');
                 <div class="box-flex">
                     <div class="box-shop">
                         <a class="box-shop-link-img" href="https://pxlme.me/wLHC--Kt">
-                            <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2018.2F10.2F19.2F4beaed04-69b8-487c-912e-a8a81bac7e7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="Couverture du dernier numéro de Capital" >
+                            <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2018.2F10.2F19.2F4beaed04-69b8-487c-912e-a8a81bac7e7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592646676" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="Couverture du dernier numéro de Capital" >
                         </a>
                         <span class="box-title">Chaque mois, Capital directement chez vous !</span>
 
@@ -410,7 +410,7 @@ ga('send', 'pageview');
                     <div class="box-flex">
                                                     <div class="box-shop">
                                 <a class="box-shop-link-img" href="https://www.capital.fr/economie-politique/votre-magazine-en-kiosque-ce-mois-ci-1230668">
-                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2020.2F02.2F19.2F034d2ea3-df22-48f5-a075-5730c3d26a15.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
+                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2020.2F02.2F19.2F034d2ea3-df22-48f5-a075-5730c3d26a15.2Ejpeg/170xauto/quality/70/picture.jpg?1592646676" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
                                 </a>
                                 <span class="box-title">Capital mensuel n°342</span>
                                 <span class="box-text">Spécial Immobilier, le placement qui rapporte ! (Airbnb, quartiers d&#039;avenir, défiscalisation, SCPI, ...) / Les viande est attaquée, comment elle se défend / Retraite : trouver du travail aux seniors, le vrai défi</span>
@@ -418,7 +418,7 @@ ga('send', 'pageview');
                             </div>
                                                     <div class="box-shop">
                                 <a class="box-shop-link-img" href="https://www.capital.fr/economie-politique/votre-magazine-en-kiosque-ce-mois-ci-1230668#99gdq">
-                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2019.2F10.2F28.2F796de964-6c77-41e7-90a5-7e54c6c41a7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592644901" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
+                                    <img data-src="https://cap.img.pmdstatic.net/scale/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2019.2F10.2F28.2F796de964-6c77-41e7-90a5-7e54c6c41a7a.2Ejpeg/170xauto/quality/70/picture.jpg?1592646676" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="">
                                 </a>
                                 <span class="box-title">Capital Votre Argent n° 8</span>
                                 <span class="box-text">Capital Votre Argent : Succession et héritage / Transmettre plus à son conjoint / Mieux protéger ses enfants / Réduire la facture fiscale</span>
@@ -476,7 +476,7 @@ ga('send', 'pageview');
                 <div class="search-data"></div>
             </div>
             <button class="search-submit">
-                <svg class="icon-search" aria-hidden="true" aria-label=criptions""Recherches suivis</a></button>
+                <svg class="icon-search" aria-hidden="true" aria-label="Reptions">Mechercher">uivis</a></button>
             </div>
 </div>
     </div>
@@ -497,7 +497,7 @@ ga('send', 'pageview');
                 <div class="search-data"></div>
             </div>
             <button class="search-submit">
-                <svg class="icon-search" aria-hidden="true" aria-label=criptions"r"><use xlink:href="#icon-search"></use></svg>
+                <svg class="icon-search" aria-hidden="true" aria-label="Reptions">Me<use xlink:href="#icon-search"></use></svg>
             </button>
         </form>
         <button class="search-close" aria-controls="header-search" aria-label="Rechercher">
@@ -548,12 +548,12 @@ ga('send', 'pageview');
         
                     <div id="corps">
 
-                <div class="ads-core-placer" id="Out-Of-Banner_5eedd5254e220" data-ads-core='{"type":"Out-Of-Banner"}'></div>
-                <div class="ads-core-placer" id="Habillage-Interstitiel_5eedd5254e227" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
+                <div class="ads-core-placer" id="Out-Of-Banner_5eeddc14c3605" data-ads-core='{"type":"Out-Of-Banner"}'></div>
+                <div class="ads-core-placer" id="Habillage-Interstitiel_5eeddc14c360b" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
 
-                                    <div class="ads-core-placer" id="Postitiel_5eedd5254e233" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
+                                    <div class="ads-core-placer" id="Postitiel_5eeddc14c3619" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
                 
-                <div class="ads-core-placer" id="Banniere-Haute_5eedd5254e236" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
+                <div class="ads-core-placer" id="Banniere-Haute_5eeddc14c361b" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
 
                 <div class="site_content">
                                                                     <nav class="subnav">
@@ -713,8 +713,8 @@ ga('send', 'pageview');
                                                                                                             data-symbol="Nu.">Bhoutan (BTN) - Ngultrum (BTN)</option>
                                                             <option value="BYN_BLR"
                                                                                                             data-symbol="">Biélorussie (BLR) - Rouble biélorusse (BYN)</option>
-                                                            <option value="OF_BEN"
-  MMK_MMR"
+                                                            <option value="MMKBEN"
+     _MMR"
                                                                                                  data-symbol="F">Bénin (BEN) - Franc CFA - BCEAO (XOF)</option>
                                                             <option value="BMD_BMU"
                                                                                                             data-symbol="$">Bermudes (BMU) - Dollar bermudien (BMD)</option>
@@ -722,7 +722,7 @@ ga('send', 'pageview');
                                                                                                             data-symbol="Nu.">Bhoutan (BTN) - Ngultrum (BTN)</option>
                                                             <option value="BYN_BLR"
                                                                                                             data-symbol="">Biélorussie (BLR) - Rouble biélorusse (BYN)</option>
-                                                            <option value="OF_BEN"
+                                                            <option value="MMKBEN"
                                                                                                              data-symbol="K">Birmanie (MMR) - Kyat (MMK)</option>
                                                             <option value="ETB_ETH"
                                                                                                             data-symbol="Br">Éthiopie (ETH) - Birr éthiopien (ETB)</option>
@@ -851,7 +851,7 @@ ga('send', 'pageview');
                                                             <option value="HKD_HKG"
                                                                                                             data-symbol="HK$">Hong Kong (HKG) - Dollar de Hong Kong (HKD)</option>
                                                             <option value="NAD_NAM"
-                                                                                                            data-symbol="N$">Namibi - Dollar e (NAM) - Dollar de Namibie (NAD)</option>
+                                                                                                            data-symbol="N$">Namibie (Dollar de NAM) - Dollar de Namibie (NAD)</option>
                                                             <option value="SGD_SGP"
                                                                                                             data-symbol="S$">Singapour (SGP) - Dollar de Singapour (SGD)</option>
                                                             <option value="TWD_TWN"
@@ -916,7 +916,7 @@ ga('send', 'pageview');
                                                             <option value="EUR_FIN"
                                                                                                             data-symbol="€">Finlande (FIN) - Euro (EUR)</option>
                                                             <option value="AWG_ABW"
-                                                                                                            data-symbol="">Aruba (ABW) - Florin d&#039;Arub                                                                                                     data-symbol="€">Europe (EUR) - Euro (EUR)</option>
+                                                                                                            data-symbol="">Aruba (ABW) - Florin d&#039;Aruba (                                                                                                  data-symbol="€">Europe (EUR) - Euro (EUR)</option>
                                                     </optgroup>
                                             <optgroup label="F">
                                                             <option value="FJD_FJI"
@@ -924,7 +924,7 @@ ga('send', 'pageview');
                                                             <option value="EUR_FIN"
                                                                                                             data-symbol="€">Finlande (FIN) - Euro (EUR)</option>
                                                             <option value="AWG_ABW"
-                                                                                                            data-symbol="">Aruba (ABW) - Florin da (AWG)</option>
+                                                                                                            data-symbol="">Aruba (ABW) - Florin d&#0AWG)</option>
                                                             <option value="ANG_CUW"
                                                                                                             data-symbol="NAƒ">Curaçao (CUW) - Florin néerlandais (ANG)</option>
                                                             <option value="HUF_HUN"
@@ -1123,14 +1123,14 @@ ga('send', 'pageview');
                                                                                                             data-symbol="RM">Malaisie (MYS) - Ringgit de Malaisie (MYR)</option>
                                                             <option value="MWK_MWI"
                                                                                                             data-symbol="MK">Malawi (MWI) - Kwacha Malawien (MWK)</option>
-                                                            <opt                                                                                                         data-symbol="ден">Macédoine (pays) (MKD) - Denar macédonien (MKD)</option>
+                                                            <option                                                                                                      data-symbol="ден">Macédoine (pays) (MKD) - Denar macédonien (MKD)</option>
                                                             <option value="MGA_MDG"
                                                                                                             data-symbol="Ar">Madagascar (MDG) - Ariary Malgache (MGA)</option>
                                                             <option value="MYR_MYS"
                                                                                                             data-symbol="RM">Malaisie (MYS) - Ringgit de Malaisie (MYR)</option>
                                                             <option value="MWK_MWI"
                                                                                                             data-symbol="MK">Malawi (MWI) - Kwacha Malawien (MWK)</option>
-                                                      ion value="MVR_MDV"
+                                                          value="MVR_MDV"
                                                                                                             data-symbol="Rf">Maldives (MDV) - Rufiyaa (MVR)</option>
                                                             <option value="XOF_MLI"
                                                                                                             data-symbol="F">Mali (MLI) - Franc CFA - BCEAO (XOF)</option>
@@ -1682,7 +1682,7 @@ ga('send', 'pageview');
                                                             <option value="SBD_SLB"
                                                                                                             data-symbol="SI$">Salomon (SLB) - Dollar des îles Salomon (SBD)</option>
                                                             <option value="GYD_GUY"
-                                                                           hamas (BHS                                 data-symbol="GY$">Guyana (GUY) - Dollar du Guyana (GYD)</option>
+                                                                              as (BHS) -                              data-symbol="GY$">Guyana (GUY) - Dollar du Guyana (GYD)</option>
                                                             <option value="SRD_SUR"
                                                                                                             data-symbol="$">Suriname (SUR) - Dollar du Surinam (SRD)</option>
                                                             <option value="ZWL_ZWE"
@@ -1755,7 +1755,7 @@ ga('send', 'pageview');
                                                             <option value="KMF_COM"
                                                                                                             data-symbol="CF">Comores (pays) (COM) - Franc comorien (KMF)</option>
                                                             <option value="CDF_COD"
-                                                                                                            data-symbol="FC">République démocratique du Congo (COD) - Franc congolais (CDF)</                                                          <option value="DJF_DJI"
+                                                                                                            data-symbol="FC">République démocratique du Congo (COD) - Franc congolais (CDF)</opt                                                       <option value="DJF_DJI"
                                                                                                             data-symbol="Fdj">Djibouti (DJI) - Franc de Djibouti (DJF)</option>
                                                             <option value="GNF_GIN"
                                                                                                             data-symbol="FG">Guinée (GIN) - Franc de Guinée (GNF)</option>
@@ -1889,7 +1889,7 @@ ga('send', 'pageview');
                                                                                                             data-symbol=""> (MDL) - Leu (MDL)</option>
                                                             <option value="RON_RON"
                                                                                                             data-symbol=""> (RON) - Leu Roumain (RON)</option>
-                                  </option>
+                                     ption>
                           <option value="BGN_BGR"
                                                                                                             data-symbol="лв.">Bulgarie (BGR) - Lev Bulgare (BGN)</option>
                                                             <option value="LBP_LBN"
@@ -2159,7 +2159,7 @@ ga('send', 'pageview');
                                                             <option value="PEN_PER"
                                                                                                             data-symbol="S/.">Pérou (PER) - Sol Péruvien (PEN)</option>
                                                             <option value="KGS_KGZ"
-                                                                                                            data-symbol="K.S.">Kirghizistan (KGZ) - Som (- Dollar de Singapour (SGD)</option>
+                                                                                                            data-symbol="K.S.">Kirghizistan (KGZ) - Som (KGSollar de Singapour (SGD)</option>
                                                             <option value="EUR_SVK"
                                                                                                             data-symbol="€">Slovaquie (SVK) - Euro (EUR)</option>
                                                             <option value="EUR_SVN"
@@ -2167,7 +2167,7 @@ ga('send', 'pageview');
                                                             <option value="PEN_PER"
                                                                                                             data-symbol="S/.">Pérou (PER) - Sol Péruvien (PEN)</option>
                                                             <option value="KGS_KGZ"
-                                                                                                            data-symbol="K.S.">Kirghizistan (KGKGS)</option>
+                                                                                                            data-symbol="K.S.">Kirghizistan (KGZ) )</option>
                                                             <option value="SOS_SOM"
                                                                                                             data-symbol="Sh.So.">Somalie (SOM) - Shilling de Somalie (SOS)</option>
                                                             <option value="TJS_TJK"
@@ -2341,7 +2341,7 @@ ga('send', 'pageview');
                             </div>
                             <strong>119,4747&nbsp;<span>¥</span></strong>
                         </li>
-       us.svg" cl                                                                                                     <li class="currencylist-item" data-wide-target>
+          svg" class                                                                                                  <li class="currencylist-item" data-wide-target>
                             <div class="currencylist-item-wrapper">
                                 <img src="/assets/img/tha.svg" class="currencylist-flag" alt="Voir le cours Euro - Baht / Thaïlande">
                                 <span>Thaïlande</span>
@@ -2449,7 +2449,7 @@ ga('send', 'pageview');
                 <a href="https://www.capital.fr/devises/liste/EUR/M-O" class="btn btn--outline">M - O</a>
             </li>
                     <li>
-                <a href="https://www.capital.fr/devises/liste/EUR/P-Smien</a>
+                <a href="https://www.capital.fr/devises/liste/EUR/P-S" cn</a>
                             </div>
                             <strong>26,015,9867&nbsp;<span>₫</span></strong>
                         </li>
@@ -2473,7 +2473,7 @@ ga('send', 'pageview');
                 <a href="https://www.capital.fr/devises/liste/EUR/M-O" class="btn btn--outline">M - O</a>
             </li>
                     <li>
-                <a href="https://www.capital.fr/devises/lis" class="btn btn--outline">P - S</a>
+                <a href="https://www.capital.fr/devises/liste/lass="btn btn--outline">P - S</a>
             </li>
                     <li>
                 <a href="https://www.capital.fr/devises/liste/EUR/T-Z" class="btn btn--outline">T - Z</a>
@@ -2525,8 +2525,8 @@ ga('send', 'pageview');
     </main>
                             <aside class="page-aside" role="complementary">
 
-        <div class="ads-core-placer" id="Pave-Haut_5eedd52552ec8" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
-        <div class="ads-core-placer" id="Bouton_5eedd52552ecf" data-ads-core='{"device":"tablet,desktop","type":"Bouton"}'></div>
+        <div class="ads-core-placer" id="Pave-Haut_5eeddc14c9bd0" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
+        <div class="ads-core-placer" id="Bouton_5eeddc14c9bda" data-ads-core='{"device":"tablet,desktop","type":"Bouton"}'></div>
 
         <div class="shopbox">
     <iframe src="https://abo.prismamediadigital.com/cap/1" sandbox="allow-popups allow-scripts allow-same-origin" class="sidebarIFrame" scrolling="no" frameborder="0" allowtransparency="true" width="300" height="250"></iframe>
@@ -2541,7 +2541,7 @@ ga('send', 'pageview');
     <iframe class="lazyload" sandbox="allow-popups allow-scripts allow-same-origin" data-url="https://www.facebook.com/plugins/page.php?href=https://facebook.com/Capital.fr/&tabs&width=360&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="360" height="214" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 </section>
 
-        <div class="ads-core-placer" id="Pave-Bas_5eedd5255469f" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
+        <div class="ads-core-placer" id="Pave-Bas_5eeddc14d022d" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
 
     </aside>
                     </div>
@@ -2617,7 +2617,7 @@ boldTitle.length > 0 ? boldTitle.forEach(addAnalytics) : ''
             </script>
         
             
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc2461609-","applicationID":"94223269","transactionName":"Y1RTbBdSVxFZABUIXloeck0WR1YPFxMMBW5XUEFREVJVPV4RDg9Fa1JEShdWVwFBPAgPVVFJ","queueTime":0,"applicationTime":103,"atts":"TxNQGl9IRB8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc2461609-","applicationID":"94223269","transactionName":"Y1RTbBdSVxFZABUIXloeck0WR1YPFxMMBW5XUEFREVJVPV4RDg9Fa1JEShdWVwFBPAgPVVFJ","queueTime":0,"applicationTime":127,"atts":"TxNQGl9IRB8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
               function addAnalytics(el) {
   el.addEventListener('click', function (e) {
@@ -2628,4 +2628,4 @@ boldTitle.length > 0 ? boldTitle.forEach(addAnalytics) : ''
       eventLabel: e.target.innerText
     };
     console.log(evt);
-    ga('send',
+    ga('send', 'e

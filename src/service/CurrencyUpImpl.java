@@ -15,8 +15,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Set;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
@@ -49,22 +47,15 @@ public class CurrencyUpImpl implements CurrencyUp {
 	}
 
 	@WebMethod
-	public HashMapWrapper getExchanges(@WebParam(name="montant") double amount) throws IOException{
-		Map<String, Double> result = new HashMap<String, Double>();
-		FileInputStream fis = new FileInputStream(this.site2);
-		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+	public ArrayList<Double> getExchanges(@WebParam(name="montant") double amount) throws IOException{
 		// this line to update the values every day from the site 
 		if (new Date() != this.dateUpdate) {
 			this.updater();
 		}
 		
-		String line="";
-		while((line = br.readLine()) != null) {
-			String[] values = line.split(":");
-			result.put(values[0].trim(), Double.valueOf(values[1])*amount);
-			
-		}
-		return new HashMapWrapper(result);
+		ArrayList<Double> result = (ArrayList<Double>) this.exchangeMap;
+		
+		return result;
 	}
 
 	public void updater() throws IOException {
@@ -121,24 +112,27 @@ public class CurrencyUpImpl implements CurrencyUp {
 		}
 
 		int count = 0;
+		this.exchangeMap.clear();
 		while ((line = br1.readLine()) != null) {
 			if (count > 4) {
 				if (count == 8 || count == 11 || count == 12) {
 					String mot = line.trim().substring(8, line.trim().indexOf('/'));
 					String newMot = mot.substring(0, mot.length() - 1);
-					if (it.hasNext()) {
-						Entry<String, Double> e = it.next();
-						
+					String newMott = newMot.replace(',','.');
+					if(newMott.length() <= 6) {
+						this.exchangeMap.add(Double.valueOf(newMott));
 					}
+					
 
 				} else {
-					System.out.println(count);
+					
 					String mott = line.trim().substring(8, line.trim().indexOf("&"));
-					if (it.hasNext()) {
-						Entry<String, Double> e = it.next();
-						String mottt = mott.replace(',', '.');
-						e.setValue(Double.valueOf(mottt));
+					String mottt = mott.replace(',','.');
+					System.out.println(count);
+					if(mottt.length() <= 6) {
+						this.exchangeMap.add(Double.valueOf(mottt));
 					}
+					
 				}
 			}
 
@@ -147,10 +141,10 @@ public class CurrencyUpImpl implements CurrencyUp {
 		
 
 	    Iterator<Double> it2= this.exchangeMap.iterator();
-	      while(it.hasNext()){
-	         Entry<String, Double> e = it.next();
-	         String entry = e.getKey() + " : " + e.getValue()+"\n";
-	         fos2.write(entry.getBytes());
+	      while(it2.hasNext()){
+	    	 String ligne = String.valueOf(it2.next());
+	    	 ligne+="\n";
+	         fos2.write(ligne.getBytes());
 	      }
 
 	}

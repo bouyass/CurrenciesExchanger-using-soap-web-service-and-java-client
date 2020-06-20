@@ -1,12 +1,10 @@
 package service;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
-
-import javax.jws.WebParam;
+import java.util.ArrayList;
 
 public interface CurrencyUp {
-	public HashMapWrapper getExchanges(double amount) throws IOException;
+	public ArrayList<Double> getExchanges(double amount) throws IOException;
 	public void updater() throws IOException;
 	
 }

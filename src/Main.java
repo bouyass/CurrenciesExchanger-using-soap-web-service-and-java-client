@@ -15,7 +15,8 @@ public class Main {
 		Endpoint.publish(url, new CurrencyUpImpl());
 		System.out.println("Web service deployé sur "+ url );
 		
-	
+		
+
 
        
        
