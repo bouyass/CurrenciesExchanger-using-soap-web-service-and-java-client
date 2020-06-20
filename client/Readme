@@ -1,1 +1,3 @@
 
+Inside client project, we generate the proxy classes which will allow us to communicate with the soap web service.
+Just by clicking in eclipse on new -> web service client and fill the service definition field with the wsdl address.
