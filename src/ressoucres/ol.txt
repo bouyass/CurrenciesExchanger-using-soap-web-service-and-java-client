@@ -17,6 +17,6 @@
                             <strong>10,8085&nbsp;<span>Dh</span></strong>
                             <strong>5,9368&nbsp;<span>R$</span></strong>
                             <strong>3,1967&nbsp;<span>DT</span></strong>
-                            <strong>3,1967&nbsp;<span>DT</span></strong>
                             <strong>4,303,2797&nbsp;<span>Ar</span></strong>
+                            <strong>26,015,9867&nbsp;<span>₫</span></strong>
                             <strong>26,015,9867&nbsp;<span>₫</span></strong>
